@@ -1,0 +1,13 @@
+.sidebar {
+  padding-right: 13px;
+  padding-left: 13px;
+}
+form {
+  margin-top: 20px;
+}
+.row {
+  max-width: 100%;
+}
+#formrow {
+  max-width: 50%;
+}
